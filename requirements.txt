@@ -1,11 +1,12 @@
 # Core
 numpy
 pandas
+openpyxl
 
 # Visualization
 matplotlib
 seaborn
-
+plotly
 
 # Machine Learning
 scikit-learn
